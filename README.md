@@ -6,18 +6,17 @@ Engineer, Tech. enthusiast, AI student, dynamic, self-motivating, life long lear
 2. Master of Technology in Artificial Intelligence, Kathmandu University, Panchkhel Campus, Kavre (Running)
 
 # Programming Skills
- Python
- C Programming
- C++ 
- JavaScript
- R Programming
- Java
- Matlab 
+- Python
+- C Programming
+- C++ 
+- JavaScript
+- R Programming
+- Java
+- Matlab 
 
 # Course Completion
-1. Machine Learning Specialization (Offered by Coursera)
-   https://coursera.org/share/677b477121b4ba9bc248b08f295613e9
-
+1. Machine Learning Specialization (Offered by Coursera) https://coursera.org/share/7565c64c8ba2d4efe5db3c5f2f014809
+   
 # Machine Learning Frameworks
 1. TensorFlow
 2. Scikit-learn
